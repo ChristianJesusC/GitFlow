@@ -1,4 +1,9 @@
+p{
+    color: red; 
+    text-align: center;
+}
+
 h2{
+    color: blue;
     display: flex;
-    align-items: center;
 }
